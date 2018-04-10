@@ -11,7 +11,7 @@ Tilted is primarily intended for gaming PCs with modern graphics cards. This is 
 
 - **Tilted Media Tool - Beta Available Now** While Tilted Agent handles basic media integration tasks, Tilted Media Tool offers a more advanced and comprehensive means of obtaining media for your game library with the ability to batch download from various sources (Emumovies, ScreenScraper, TheGamesDb.net, and more). It also batch converts your HyperSpin themes into open, easy-to-tweak HTML5/CSS3 files which can run natively in Tilted UI as animated wallpaper.
 
-- **Tilted Data Tool - Coming Soon**  For advanced users. Each release of Tilted Agent will include a local version of the Tilted Database, a collection of practically every video game ever made. Basic game data comes from all of the various game preservation groups such as No-Intro, MAME, and TOSEC, as well as more detailed data from online sources such as thegamesdb.net. However if you want to generate your own database using the latest DAT files or some other sources, you can do so using this tool.
+- **Tilted Data Tool - Coming Soon**  For advanced users. Each release of Tilted Agent will include a local version of the Tilted Database, a collection of information about practically every video game ever made. Basic game data comes from all of the various game preservation groups such as No-Intro, MAME, and TOSEC, as well as more detailed data from online sources such as thegamesdb.net. However if you want to generate your own database using the latest DAT files or some other sources, you can do so using this tool.
 
 ## Features
 
