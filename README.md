@@ -23,7 +23,7 @@ Tilted is primarily intended for gaming PCs with modern graphics cards. This is 
 
 - Smart playlist creation. The games in your collection are logically filtered and displayed so that you don't see multiple versions of the same game while prioitizing your language and locale. Clones and bad dumps are ignored. Various playlist menu schemes are available. Any game you have can be manually force included or force excluded from the auto playlist generators.  You can also provide your own custom playlists with as many sub-menus as you want.
 
-- Supports HyperSpin themes and HyperSpin override transitions. Also supports full screen video wallpaper as well as HTML5 animated wallpaper (which in turn may contain many different videos and animations).  Seamlessly transition betwen all wallpaper types and even mix video backgrounds with animated overlays.
+- Supports importing HyperSpin themes and HyperSpin override transitions. Also supports full screen video wallpaper as well as HTML5 animated wallpaper (which in turn may contain many different videos and animations).  Seamlessly transition betwen all wallpaper types and even mix video backgrounds with animated overlays.
 
 - Tilted UI coems with a highly customizable default skin as well as the ability to design and save your own basic skins in the application itself. Skins packages may include custom overlays, sounds, and fonts that require no system installation.  For advanced designers, you can also create a 100% fully customized skin by providing a XAML file. Your advanced skin can still use selected menus and controls of the default skin if you want, or you can replace the entire UI with your own creation.
 
