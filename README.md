@@ -1,7 +1,7 @@
 # NO RELEASES AVAILABLE JUST YET
 If you somehow stumbled across this by accident, I am currently writing the readme ahead of actual builds being available. If this paragraph is here then there's nothing to see on the repo right now. Sorry come back soon.
 
-# Tilted
+# TILTED
 
 The **Tilted** application suite is an arcade-style gaming front-end system, library management solution, and media server for emulators and PC games.  Tilted offers an unprecedented level of user convenience never before seen in other front-ends, while at the same time providing the most powerful features and remaining fully customizable.
 
