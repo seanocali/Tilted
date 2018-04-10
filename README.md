@@ -1,6 +1,3 @@
-# NO RELEASES AVAILABLE JUST YET
-If you somehow stumbled across this by accident, I am currently writing the readme ahead of actual builds being available. If this paragraph is here then there's nothing to see on the repo right now. Sorry come back soon.
-
 # TILTED
 
 The **Tilted** application suite is an arcade-style gaming front-end system, library management solution, and media server for emulators and PC games.  Tilted offers an unprecedented level of user convenience never before seen in other front-ends, while at the same time providing the most powerful features and remaining fully customizable.
@@ -13,7 +10,7 @@ Tilted is primarily intended for gaming PCs with modern graphics cards. This is 
 - **Tilted UI - Coming Very Soon**  This is the actual front-end of the front-end suite.  Built from the ground up using the newest development tools, it takes advantage of the latest and greatest graphics and animation features of Windows 10. It loads in just a few seconds. It runs at a steady 60fps without any lag or screen tearing. It can be run on the same PC as Tilted Agent, or it can be run remotely on another system such as a tablet, offering Second-Screen functionality. The default skin's native resolution is 1440p and looks beautiful at any scale. Tilted UI is optimized for multiple screen shapes and sizes and automatically adjusts the aspect-ratio accordingly using a feature called Visual States.It handles any kind of input including gamepads, arcade sticks, trackballs, spinners, and even multitouch gestures. The Windows 10 release of Tilted UI is fully customizable, and will be followed up with Android and iOS versions at a future date.
 
 ## Optional Utilities
-- **Tilted Media Tool - Beta Available Now** While Tilted Agent handles basic media integration tasks, Tilted Media Tool offers a more advanced and comprehensive means of obtaining media for your game library with the ability to batch download from various sources (Emumovies, ScreenScraper, TheGamesDb.net, and more). It also batch converts your HyperSpin themes into open, easy-to-tweak HTML5/CSS3 files which can run natively in Tilted UI as animated wallpaper.
+- **Tilted Media Tool - Coming Soon** While Tilted Agent handles basic media integration tasks, Tilted Media Tool offers a more advanced and comprehensive means of obtaining media for your game library with the ability to batch download from various sources (Emumovies, ScreenScraper, TheGamesDb.net, and more). It also batch converts your HyperSpin themes into open, easy-to-tweak HTML5/CSS3 files which can run natively in Tilted UI as animated wallpaper.
 
 - **Tilted Data Tool - Coming Soon**  For advanced users. Each release of Tilted Agent will include a local version of the Tilted Database, a collection of information about practically every video game ever made. Basic game data comes from all of the various game preservation groups such as No-Intro, MAME, and TOSEC, as well as more detailed data from online sources such as thegamesdb.net. However if you want to generate your own database using the latest DAT files or some other sources, you can do so using this tool.
 
