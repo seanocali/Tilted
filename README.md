@@ -1,4 +1,4 @@
-# TILTED
+# Tilted
 
 The **Tilted** application suite is an arcade-style gaming front-end system, library management solution, and media server for emulators and PC games.  Tilted offers an unprecedented level of user convenience never before seen in other front-ends, while at the same time providing the most powerful features and remaining fully customizable.
 
