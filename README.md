@@ -32,16 +32,6 @@ Tilted is primarily intended for gaming PCs with modern graphics cards. While re
 
 - Steam integration.  Zero setup required.  Even if you don't own any Steam games, non-Steam PC games are launched using the client to provide a clean and reliable way to always detect when the game is running and when it's finished. This way Tilted always knows when to return to the front-end and when not to. There is no need to go through the old granular process of adding new PC games to a front-end.  You don't need to provide file names, window handle names, time delays or anything like that. There is no "Steam Wheel Creator" tool, banners and backgrounds are obtained automatically.  As soon as you install a new PC game (even if done remotely) it will immediately pop up in the UI and be ready to play.
 
-## Authors
-
-* **Sean O**
-
 ## License
 
 This project is licensed under the GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Thanks to the Avalonia team, whose framework this new open source version of Tilted Agent will likely be based on.
-* Thanks to gmatthews, pvroos, lukasf, brolly.
-* Special thanks to anyone who created original artwork content for HyperSpin that will hopefully see new life on Tilted.
