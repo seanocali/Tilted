@@ -34,4 +34,4 @@ Tilted is primarily intended for gaming PCs with modern graphics cards. While re
 
 ## License
 
-This project is licensed under the GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details
+Tilted Agent 2.0 is licensed under the GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details
