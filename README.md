@@ -2,7 +2,7 @@
 
 The **Tilted** application suite is an arcade-style gaming front-end, library management solution, and media server for emulators and PC games.  Tilted offers an unprecedented level of user convenience never before seen in other front-ends, while at the same time providing the most powerful features and remaining fully customizable.
 
-Tilted is primarily intended for gaming PCs with modern graphics cards. While retro classics are fantastic, there are also hundreds of amazing arcade-friendly games released for the PC every year. Many of them are true masterpieces, and none of them will run on a $25 embeded kit. For all the time, money and effort used to build or aquire an arcade cab, you owe it to yourself to power it with a real gaming rig, and Tilted is the best front-end solution to make it shine.
+Tilted is primarily intended for gaming PCs with modern graphics cards. While retro classics are fantastic, there are also hundreds of amazing arcade-friendly games released for the PC every year. Many of them are true masterpieces, and none of them will run on a $25 embedded kit. For all the time, money and effort used to build or acquire an arcade cab, you owe it to yourself to power it with a real gaming rig, and Tilted is the best front-end solution to make it shine.
 
 [Downloads](https://github.com/seanocali/Tilted/releases)
 
@@ -20,15 +20,15 @@ Tilted is primarily intended for gaming PCs with modern graphics cards. While re
 
 ## Features
 
-- Automatic rom detection and library creation.  Point to one or more rom folders you're done. No need to go through a bunch of steps or do one platform at a time.  No need to provide your own database files (unless you want to). If your games are not well named or organized that's not a problem because Tilted Agent will also check hash signitures if need be. None of your files will be moved, copied, deleted or renamed. Instead Tilted creates a user's game library which is tagged with everything about the games such as proper titles, languages, descriptions, etc.
+- Automatic rom detection and library creation.  Point to one or more rom folders you're done. No need to go through a bunch of steps or do one platform at a time.  No need to provide your own database files (unless you want to). If your games are not well named or organized that's not a problem because Tilted Agent will also check hash signatures if need be. None of your files will be moved, copied, deleted or renamed. Instead Tilted creates a user's game library which is tagged with everything about the games such as proper titles, languages, descriptions, etc.
 
 - Intelligent media detection and game matching.  Tilted will check many possible folder and file naming conventions for media and match them appropriately to your games.
 
 - Web API with WebSocket push notifications offers the potential for countless second-screen possibilities such as wireless marquees, live control panels, and digital manuals. This feature is particularly exciting for arcade cabinet builders.
 
-- Smart playlist creation. The games in your collection are logically filtered and displayed so that you don't see multiple versions of the same game while prioitizing your language and locale. Clones and bad dumps are ignored. Various playlist menu schemes are available. Special exception games are easy to make with force include and force exclude options.  You can also provide your own custom playlists with as many sub-menus as you want.
+- Smart playlist creation. The games in your collection are logically filtered and displayed so that you don't see multiple versions of the same game while prioritizing your language and locale. Clones and bad dumps are ignored. Various playlist menu schemes are available. Special exception games are easy to make with force include and force exclude options.  You can also provide your own custom playlists with as many sub-menus as you want.
 
-- Supports importing HyperSpin themes and HyperSpin override transitions. Also supports full screen video wallpaper as well as HTML5 animated wallpaper (which in turn may contain many different videos and animations).  Seamlessly transition betwen all wallpaper types and even mix video backgrounds with animated overlays.
+- Supports importing HyperSpin themes and HyperSpin override transitions. Also supports full screen video wallpaper as well as HTML5 animated wallpaper (which in turn may contain many different videos and animations).  Seamlessly transition between all wallpaper types and even mix video backgrounds with animated overlays.
 
 - Tilted UI comes with a highly customizable default skin as well as the ability to design and save your own basic skins in the application itself. Skin packages may include custom overlay graphics, sounds, and fonts that require no system installation.  For advanced designers, you can also create a 100% fully customized skin by providing a XAML file. Your advanced skin can still use selected menus and controls of the default skin if you want, or you can replace the entire UI with your own creation.
 
@@ -39,3 +39,5 @@ Tilted is primarily intended for gaming PCs with modern graphics cards. While re
 ## License
 
 Tilted Agent 2.0 is licensed under the GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details
+
+
