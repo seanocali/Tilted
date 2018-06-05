@@ -2,7 +2,7 @@
 
 The **Tilted** application suite is an arcade-style gaming front-end, library management solution, and media server for emulators and PC games.  Tilted offers an unprecedented level of user convenience never before seen in other front-ends, while at the same time providing the most powerful features and remaining fully customizable.
 
-Tilted is primarily intended for gaming PCs with modern graphics cards. While retro classics are fantastic, there are also hundreds of amazing arcade-friendly games released for the PC every year. Many of them are true masterpieces, and none of them will run on a $25 embedded kit. For all the time, money and effort used to build or acquire an arcade cab, you owe it to yourself to power it with a real gaming rig, and Tilted is the best front-end solution to make it shine.
+Tilted is primarily intended for gaming PCs with modern graphics cards. While retro classics are fantastic, there are also hundreds of amazing arcade-friendly games released for the PC every year. Many of them are true masterpieces, and none of them will run on a mini device. For all the time, money and effort used to build or acquire an arcade cab, you owe it to yourself to power it with a real gaming rig, and Tilted is the best front-end solution to make it shine.
 
 [Downloads](https://github.com/seanocali/Tilted/releases)
 
