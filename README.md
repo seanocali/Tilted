@@ -16,8 +16,6 @@ Tilted is primarily intended for gaming PCs with modern graphics cards. While re
 ## Optional Utilities
 - **Tilted Media Tool - Coming Soon** While Tilted Agent handles basic media integration tasks, Tilted Media Tool offers a more advanced and comprehensive means of obtaining media for your game library with the ability to batch download from various sources (Emumovies, ScreenScraper, TheGamesDb.net, and more). It also batch converts your HyperSpin themes into open, easy-to-tweak HTML5/CSS3 files which can run natively in Tilted UI as animated wallpaper.
 
-- **Tilted Data Tool - Coming Soon**  For advanced users. Each release of Tilted Agent will include a local version of the Tilted Database, a collection of information about practically every video game ever made. Basic game data comes from all of the various game preservation groups such as No-Intro, MAME, and TOSEC, as well as more detailed data from online sources such as thegamesdb.net. However if you want to generate your own database using the latest DAT files or some other sources, you can do so using this tool.
-
 ## Features
 
 - Automatic rom detection and library creation.  Point to one or more rom folders you're done. No need to go through a bunch of steps or do one platform at a time.  No need to provide your own database files (unless you want to). If your games are not well named or organized that's not a problem because Tilted Agent will also check hash signatures if need be. None of your files will be moved, copied, deleted or renamed. Instead Tilted creates a user's game library which is tagged with everything about the games such as proper titles, languages, descriptions, etc.
