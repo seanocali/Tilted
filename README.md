@@ -29,7 +29,7 @@ Tilted is primarily intended for gaming PCs with modern graphics cards. While re
 
 - Supports importing HyperSpin themes and HyperSpin override transitions. Also supports full screen video wallpaper as well as HTML5 animated wallpaper (which in turn may contain many different videos and animations).  Seamlessly transition between all wallpaper types and even mix video backgrounds with animated overlays.
 
-- Tilted UI comes with a highly customizable default skin as well as the ability to design and save your own basic skins in the application itself. Skin packages may include custom overlay graphics, sounds.  A skin may also include custom fonts and the user is not required to install them.  For advanced designers, you can also create a 100% fully customized skin by providing XAML files.  Simply tweak the default skin, or re-write the entire UI. The choice is yours.
+- Tilted UI comes with a highly customizable default skin as well as the ability to design and save your own basic skins in the application itself. Skin packages may include custom graphics and sounds.  A skin may also include custom fonts and the user is not required to install them.  For advanced designers, you can also create a 100% fully customized skin by providing XAML files.  Simply tweak the default skin, or re-write the entire UI. The choice is yours.
 
 - RetroArch integration.  Detects which cores you have and uses a lookup table to find the best default core for each platform.  Users can easily override these defaults on a per-platform or even per-game basis.  Additional non-RetroArch emulators or launchers can also be added with minimal fuss.  Or you can just use the excellent RocketLauncher application, which is fully supported.
 
