@@ -27,7 +27,7 @@ Tilted is primarily intended for gaming PCs with modern graphics cards. While re
 
 ## Features
 
-- Automatic rom detection and library creation.  Point to one or more rom folders you're done. No need to go through a bunch of steps or do one platform at a time.  No need to provide your own database files (unless you want to). If your games are not well named or organized that's not a problem because Tilted Agent will also check hash signatures if need be. None of your files will be moved, copied, deleted or renamed. Instead Tilted creates a user's game library which is tagged with everything about the games such as proper titles, languages, descriptions, etc.
+- Automatic rom detection and library creation.  Point to one or more rom folders and you're done. No need to go through a bunch of steps or do one platform at a time.  No need to provide your own database files (unless you want to). If your games are not well named or organized that's not a problem because Tilted Agent will also check hash signatures if need be. None of your files will be moved, copied, deleted or renamed. Instead Tilted creates a user's game library which is tagged with everything about the games such as proper titles, languages, descriptions, etc.
 
 - Intelligent media detection and game matching.  Tilted will check many possible folder and file naming conventions for media and match them appropriately to your games.
 
