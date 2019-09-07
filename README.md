@@ -1,5 +1,7 @@
 # ![Tilted](https://i.imgur.com/ojqXTsd.png)
 
+UPDATE 9/6/2019 - Tilted Agent is being ported to a ReactJS based web application so it can work on Windows, Linux, or MacOS.
+
 UPDATE 1/14/2019 - Posted here because I don't have a blog yet.
 The project is not dead by any means. The massive delay in releasing the front-end is due to several factors. Tilted UI was ready for release, but I decided to create some additional skins first. Upon doing this I discovered a few limitations and difficulties a would-be skin developer might run into. This led to a deep rabbit hole. A skin can now include its own custom settings menu which will plug into the default settings menu (similar to Kodi). I rewrote a ton of code to take advantage of UWP's new Composition API which gives better performance and allows exciting new possibilities for skins, particularly Expression Animations, Connected Animations, and the Parallex Effect. I also created many custom XAML controls invaluable to a skin designer. The Tilted Media Control allows a simple line of markup to include a particular type of game media (e.g. a logo) and it doesn't care if that media is a png file, a video file, or even an animated WebP or GIF. It's abstracted so it will just work. This is important if a user wants to slowly integrate animated logos into their standard logos collection. They won't have to pick one or the other. The Tilted Transition Control makes it easy to use one or more visual transition presets when the selected game changes, including Pixel Shader transitions. 
 
