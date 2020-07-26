@@ -1,4 +1,5 @@
 # ![Tilted](https://i.imgur.com/ojqXTsd.png)
+UPDATE 7/26/2020 - Applications are ready for release. Website under development.
 
 UPDATE 9/6/2019 - Tilted Agent is being ported to a web application so it can work on Windows, Linux, or MacOS.
 
